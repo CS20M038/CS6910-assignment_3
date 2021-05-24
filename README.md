@@ -8,3 +8,7 @@ and this is only for some testing work initially and does not contribute to any 
 Code for the question 1 to question 4 is in this github link https://github.com/CS20M038/CS6910-assignment_3/blob/main/DL_Assignment_3_Arjun_Version.ipynb
 i.e the file named DL_Assignment_3_Arjun_Version.ipynb
 
+The wandb report link for the first part (question 1 to question 4) is https://wandb.ai/theindianwriter/CS6910-Assignment3/reports/Assignment-3-Part-1--Vmlldzo3MTYxNTY
+
+The wandb report link for the third part (question 7 to self declaration) is https://wandb.ai/theindianwriter/CS6910-Assignment3/reports/Assignment-3-Part-3--Vmlldzo3MTY5MTg
+
