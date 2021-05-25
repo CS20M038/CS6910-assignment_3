@@ -10,7 +10,7 @@ i.e the file named DL_Assignment_3_Arjun_Version.ipynb
 
 The wandb report link for the first part (question 1 to question 4) is https://wandb.ai/theindianwriter/CS6910-Assignment3/reports/Assignment-3-Part-1--Vmlldzo3MTYxNTY
 
-The wandb report link for the first part (question 1 to question 4) is https:
+The wandb report link for the second part (question 5 to question 6) is https://wandb.ai/cs20m038/Assignment%203%20Part%202/reports/Assignment-3-Part2--Vmlldzo3MjAzNjQ
 
 The wandb report link for the third part (question 7 to self declaration) is https://wandb.ai/theindianwriter/CS6910-Assignment3/reports/Assignment-3-Part-3--Vmlldzo3MTY5MTg
 
