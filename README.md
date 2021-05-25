@@ -10,5 +10,13 @@ i.e the file named DL_Assignment_3_Arjun_Version.ipynb
 
 The wandb report link for the first part (question 1 to question 4) is https://wandb.ai/theindianwriter/CS6910-Assignment3/reports/Assignment-3-Part-1--Vmlldzo3MTYxNTY
 
+The wandb report link for the first part (question 1 to question 4) is https:
+
 The wandb report link for the third part (question 7 to self declaration) is https://wandb.ai/theindianwriter/CS6910-Assignment3/reports/Assignment-3-Part-3--Vmlldzo3MTY5MTg
 
+For Qno 5 and Q6 to run the code change your directory to the directory named "Attention Model", upload all the files it has on github and then run the code "Attention_without_wandB.ipynb" and "Attention_with_wandB.ipynb" .
+
+For the visulation using "Visualization Method 3 using inbuilt functions from open source project"
+Install nmtvis to your system using 
+pip install nmtvis
+Then run the script visulization.py in vs code or your terminal and not on collab. You will be prompted to a webpage where you can the visualization for randomly selected 1000 data points with beautiful animations
